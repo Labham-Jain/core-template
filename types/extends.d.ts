@@ -1,0 +1,1 @@
+type ExtendString<V> = V | (string & {})
